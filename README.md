@@ -64,6 +64,7 @@ Some of these are to suss out red flags, some are to enforce green flags! The go
 
 - Are you profitable?
   - If not, how long is your runway?
+  - How many customers do you have? (average customer tenure?)
 - What is the company's growth plan for the next 1 year? 5 years?
 - What are the big challenges you see coming up?
 - What have you identified as your competitive advantage?
